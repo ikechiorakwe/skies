@@ -1,6 +1,7 @@
 # skies
 
 A new Flutter project.
+A mobile weather app that uses the location of the device to give appropriate weather conditions
 
 ## Getting Started
 
